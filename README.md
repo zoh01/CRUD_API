@@ -22,3 +22,7 @@
 ---
 
 ## 📱 App Preview
+
+---
+
+## ⚙️ How It Works
