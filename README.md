@@ -15,3 +15,7 @@
 ---
 
 ## 🛠️ My Approach
+
+---
+
+## 📱 App Preview
