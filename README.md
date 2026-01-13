@@ -26,3 +26,7 @@
 ---
 
 ## ⚙️ How It Works
+
+---
+
+## 🤝 Contributing
