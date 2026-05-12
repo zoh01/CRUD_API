@@ -53,6 +53,3 @@ Project Link: [https://github.com/zoh01/interior_design](https://github.com/zoh0
 Distributed under the MIT License. See LICENSE file for more information.
 
       MIT License
-      
-      Copyright (c) 2025 [Adebayo Wariz]
-      
