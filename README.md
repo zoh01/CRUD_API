@@ -19,8 +19,4 @@
 ---
 
 ## 🔧 Tools and Libraries Used
----
-
-## 📱 App Preview
-
----
+----
