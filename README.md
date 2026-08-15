@@ -36,4 +36,3 @@
 ## 👤 Author
 **Adebayo Wariz**  
 
-### 📧 Contact
